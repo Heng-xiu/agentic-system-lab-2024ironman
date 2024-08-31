@@ -1,6 +1,6 @@
-# 2024 年用 LangGraph 從零開始實現 Agentic AI System - 2024 iThome 鐵人賽
+# 2024 年用 LangGraph 從零開始實現 Agentic AI System
 
-歡迎來到 Agentic System Lab! 這個專案是為 2024 年 iThome 鐵人賽準備的，專注於探索 AI 代理系統的前沿技術。
+歡迎來到 Agentic System Lab! 這個專案是為 [2024 年 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20161074/ironman/7469)準備的，專注於探索 AI 代理系統的前沿技術。
 
 ## 專案簡介
 
@@ -34,9 +34,7 @@
    git clone https://github.com/Heng-xiu/agentic-system-lab-2024ironman.git
    ```
 
-2. 瀏覽 `notebooks/` 目錄以查看每日的教學內容和代碼示例。
-
-4. 查看 `examples/` 目錄以獲取完整的示例程式。
+2. 瀏覽 `notebooks/` 目錄以查看每日的教學內容和程式碼範例。
 
 ## 系列文章連結
 
