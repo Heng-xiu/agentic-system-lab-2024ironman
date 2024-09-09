@@ -1,0 +1,11 @@
+{
+  "dockerfile_lines": [],
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "gather_user_info": "./graph.py:graph"
+  },
+  "env": "./.env",
+  "python_version": "3.11"
+}
