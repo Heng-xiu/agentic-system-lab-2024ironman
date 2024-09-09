@@ -1,12 +1,28 @@
 # 說明文件 📘
 
-在這個專案中，主要包含兩個資料夾，分別是 `p0_studio_template` 和 `p1_gather_user_info`，以下是每個資料夾的介紹與使用說明：
+在這個專案中，包含三個主要部分，分別是 `p0_studio_template` 資料夾、`LangGraph_收集使用者資訊篇.ipynb` 檔案，以及 `p1_gather_user_info` 資料夾。以下是每個部分的介紹與使用說明：
 
 ## 1. `p0_studio_template`
-這個資料夾是根據 LangGraph Studio 的範例進行設置，主要用途是幫助大家建置開發環境，並且熟悉如何在 LangGraph Studio 中進行操作。請參照此範例進行環境配置，來了解 LangGraph Studio 的各項功能。
+這個資料夾是根據 LangGraph Studio 的範例設置，目的是幫助大家熟悉 LangGraph Studio 的使用環境。建議大家先從這個範例開始，建立並熟悉開發環境。
 
-## 2. `p1_gather_user_info`
-此資料夾提供了一個實際範例，展示了如何將 Colab 的程式碼轉換為生產專案，並提供給 LangGraph Studio 進行操作。這裡可以讓大家了解如何從開發環境轉移到生產應用環境。請多次回到相關文章中進行反覆觀察，以便更好理解整個過程。
+## 2. `LangGraph_收集使用者資訊篇.ipynb`
+完成環境設置後，接著使用這個 `.ipynb` 檔案進行實際操作，理解該範例中的情境。這是一個 Jupyter Notebook 檔案，展示了如何使用 LangGraph 來收集使用者資訊，幫助大家更好地掌握相關流程。
+
+## 3. `p1_gather_user_info`
+當您了解了前述情境後，可以查看此資料夾內的範例，這部分展示了如何將 Colab 中的程式碼轉換為生產專案。這將幫助您將開發過程順利過渡到 LangGraph Studio 的生產環境中進行操作。
+
+## 使用順序 🗂️
+
+1. **Step 1: 熟悉 LangGraph Studio 環境**
+   - 開啟並使用 `p0_studio_template`，建立環境並熟悉 LangGraph Studio 的操作介面。
+
+2. **Step 2: 理解情境**
+   - 使用 `LangGraph_收集使用者資訊篇.ipynb`，進行情境模擬，學習如何收集使用者資訊並應用於 LangGraph。
+
+3. **Step 3: 從 Colab 轉換為生產專案**
+   - 最後，參考 `p1_gather_user_info`，了解如何將 Colab 中的開發轉換為生產專案，並在 LangGraph Studio 中實現。
+
+---
 
 ## 使用說明 ⚙️
 
