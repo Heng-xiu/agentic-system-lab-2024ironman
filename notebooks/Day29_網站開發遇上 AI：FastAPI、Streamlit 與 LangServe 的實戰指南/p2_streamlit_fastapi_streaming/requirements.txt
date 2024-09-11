@@ -1,0 +1,19 @@
+fastapi==0.104.1 # should also work with everything already in the environment
+uvicorn==0.23.2
+pydantic
+loguru
+
+streamlit
+sseclient
+
+## LangChain-series
+langgraph
+langchain_openai
+langchain_core
+langchain-community
+langserve[all]
+
+## For Testing
+pytest==8.1.1
+httpx==0.27.0
+pytest-cover==3.0.0
