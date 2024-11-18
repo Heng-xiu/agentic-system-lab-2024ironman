@@ -73,6 +73,10 @@
 | Day30 | [從 LangGraph 到使用者介面：整合 FastAPI 與 Streamlit 的全方位指南](https://ithelp.ithome.com.tw/articles/10348923) | 這篇文章首先介紹了專案的核心目標，包括理解自然語言查詢、進行即時網路搜尋和支援多輪對話。接著，文章詳細分析了系統架構，將其分為前端、後端和核心處理層，並介紹了 LangGraph、FastAPI 和 Streamlit 的使用。後半部分深入探討了 LangGraph 的實作，展示了其圖形結構、狀態管理及與前後端的整合如何構建複雜的對話系統並提供流暢的使用體驗。|
 | Day31 | [忙碌上班族如何在鐵人賽中堅持30天寫作？從靈感到策略：9個關鍵步驟](https://ithelp.ithome.com.tw/articles/10358571) | 這篇文章記錄了作者參加 30 天寫作挑戰的過程和心得。作者從挑戰的動機和目的出發，詳細闡述了自身在設定目標、時間管理、克服瓶頸以及提升寫作效率等方面的策略和經驗。文章分為九個章節，分別介紹了作者的寫作挑戰動機、挑戰的過程、遇到的困難、解決方案、使用的工具、寫作瓶頸的克服以及成果和反思。最後，作者呼籲讀者也參與類似的寫作挑戰，並分享了一些實用的建議和資源。文章的主旨是在於鼓勵讀者持續寫作，透過寫作來提升自我，並在寫作的過程中獲得成長和收穫。 |
 
+## Star 趨勢
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Heng-xiu/agentic-system-lab-2024ironman&type=Date)](https://star-history.com/#Heng-xiu/agentic-system-lab-2024ironman&Date)
+
 ## 貢獻指南
 
 我們歡迎社群貢獻! 如果您有任何改進建議或發現了 bug,請提交 issue 或 pull request。
