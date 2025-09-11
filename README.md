@@ -1,7 +1,10 @@
-# 2024 年用 LangGraph 從零開始實現 Agentic AI System
+# 2024 年用 LangGraph 從零開始實現 Agentic AI System 
+> [榮獲 2024 生成式AI優選獎](https://ithelp.ithome.com.tw/users/20161074)
 
 歡迎來到 Agentic System Lab! 這個專案是為 [2024 年 iThome 鐵人賽](https://ithelp.ithome.com.tw/users/20161074/ironman/7469)準備的，專注於探索 AI 代理系統的前沿技術。
 
+> 速報：此次比賽除了得到優選獎之外，同時也擷取精華上架全新[實體書-LangGraph 實戰開發](https://www.tenlong.com.tw/products/9786264142915)，想要取得第一手前沿專案經驗者速速前往入手。
+> 
 ## 專案簡介
 
 本專案旨在通過 30 天的系列文章,深入探討 Agentic System 的各個方面，從基礎概念到實際應用。我們將特別關注 LangGraph 框架，並探索多代理系統的設計和實現。
